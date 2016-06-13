@@ -832,7 +832,7 @@ p{
 
 @media screen and (max-width: 1200px) {
 	.more_fcus .e_out{
-		width: 1000px;
+		width:100%;
 	}
 	.more_fcus .e_out li{
 		width: 300px;
